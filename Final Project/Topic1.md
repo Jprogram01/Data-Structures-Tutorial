@@ -2,6 +2,8 @@
 
 A Queue is a data structure that follows the process of "First in, First Out". This means that the first item that enters in the data structure is also the first item that leaves it. A real-world example is a line to get movie tickets. The sooner you get in line, the sooner you get your ticket. 
 
+![Queue](Queue.png)
+
 
 
 A Queue can be created in python by creating a list, and then using the append function to add items to the Queue, and using the pop function to remove items from the Queue.

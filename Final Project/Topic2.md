@@ -9,6 +9,10 @@ class Node:
         self.value = val
         self.next = next
 
+What this looks like in picture form is:
+
+![LinkedList](linkedlist.png)
+
 The first node of a linked list is called the head, and the end node is call the tail. 
 
 (Problem Solving Using Linked List)[Final Project/LinkedProblems.md]
